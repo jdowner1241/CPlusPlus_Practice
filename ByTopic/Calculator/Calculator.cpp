@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace sdt;
+using namespace std;
 
 int main()
 {
